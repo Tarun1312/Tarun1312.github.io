@@ -1,0 +1,18 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+    }
+caption{ text-align: left;
+caption-side: bottom;
+}
+td
+{width: 200px; 
+}
+th{ background-color: #333333;
+color: white;
+}
+tbody tr:nth-child(odd) {background-color:#f2f2f2;
+}	
+td th { text-align: centre ;
+}
+	td tr { text-align: centre;}
