@@ -13,14 +13,13 @@ nav {
     text-align: centre;
     display: flex;
 }
-.navbar {
-  display: flex;
-}
+
 .navbar {
   display: flex;
   justify-content: space-between;
 }
 .nav-links {
+    
   display: flex;
 }
 .nav-links li a {
