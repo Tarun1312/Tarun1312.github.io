@@ -2,7 +2,6 @@ button {
     flex: 1 auto;
     margin: 5px;
     font-size: 18px;
-    line-height: 1.5;
     padding:9px 25px;
     background-color:rgba(0,136,169,1)
     border-radius: 50px;
@@ -17,6 +16,7 @@ html {
     font-family: times;
 }
 nav {
+    display:flex;
     border: 1px solid #000;
     height: 250px;
 }
@@ -24,8 +24,5 @@ nav_bar li a {
     display:inline-blocks;
     padding:0px 28px;
 }
-    text-align: centre;
-} 
-.nav_link li a:hover{
-    color: #0088a9
-}
+
+
