@@ -3,6 +3,9 @@ button {
     margin: 5px;
     font-size: 18px;
     line-height: 1.5;
+    padding:9px 25px;
+    background-color:rgba(0,136,169,1)
+    border-radius: 50px;
 }
 header {
    display: flex;
@@ -18,3 +21,6 @@ nav {
     height: 250px;
     text-align: centre;
 } 
+.nav_link li a:hover{
+    color: #0088a9
+}
