@@ -5,8 +5,10 @@ button {
     line-height: 1.5;
 }
 header {
-    background: orchid;
-    height: 100px;
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%
 }
 html {
     font-family: times;
