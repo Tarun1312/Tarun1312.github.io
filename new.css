@@ -16,6 +16,7 @@ header {
 nav {
    background-color: green;
     text-align: centre;
+    display: flex;
 }
 
 
