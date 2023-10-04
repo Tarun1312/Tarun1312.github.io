@@ -9,20 +9,14 @@ button {
 header {
    display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 30px 10%
+    align-items: center; 
+  
 }
-html {
-    font-family: times;
-}
+
 nav {
     display:flex;
-    border: 1px solid #000;
+   
     height: 250px;
-}
-nav_bar li a {
-    display:inline-blocks;
-    padding:0px 28px;
 }
 
 
