@@ -14,9 +14,8 @@ header {
 }
 
 nav {
-    display:flex;
-   
-    height: 250px;
+   background-color: green;
+    text-align: centre;
 }
 
 
