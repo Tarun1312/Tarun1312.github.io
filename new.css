@@ -19,6 +19,7 @@ html {
 nav {
     border: 1px solid #000;
     height: 250px;
+}
 nav_links li a {
     display:inline-blocks;
     padding:0px 28px;
